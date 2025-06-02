@@ -1,9 +1,9 @@
 {
-  "name": "Dlubal Light TEST",
+  "name": "Dlubal Test Theme WIP",
   "about_url": "https://github.com/TomasVorlicek/color_theme_test",
   "license_url": "https://github.com/TomasVorlicek/color_theme_test/blob/main/LICENSE",
   "color_schemes": {
-    "Solarized Light": {
+    "Dlubal Light WIP": {
       "primary": "03123D",
       "--primary-low": "03123D",
       "secondary": "fff",
@@ -17,6 +17,21 @@
       "love": "FF66CC",
       "selected": "d1f0ff",
       "hover": "f2f2f2"
+    },
+    "Dlubal Dark WIP": {
+      "primary": "dddddd",
+      "--primary-low": "03123D",
+      "secondary": "03123D",
+      "tertiary": "1E3299",
+      "quaternary": "CC3629",
+      "header_background": "03123D",
+      "header_primary": "dddddd",
+      "highlight": "CC6600",
+      "danger": "FF4534",
+      "success": "21D93F",
+      "love": "FF66CC",
+      "selected": "192A80",
+      "hover": "192A80"
     }
   }
 }
