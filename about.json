@@ -5,7 +5,6 @@
   "color_schemes": {
     "Dlubal Light WIP": {
       "primary": "03123D",
-      "--primary-low": "03123D",
       "secondary": "fff",
       "tertiary": "192A80",
       "quaternary": "FF8000",
@@ -16,11 +15,24 @@
       "success": "21D93F",
       "love": "FF66CC",
       "selected": "d1f0ff",
-      "hover": "f2f2f2"
+      "hover": "f2f2f2",
+      "primary-very-low": "282828",
+      "primary-low": "313131",
+      "primary-low-mid": "7a7a7a",
+      "primary-medium": "909090",
+      "primary-high": "a6a6a6",
+      "primary-very-high": "c7c7c7",
+      "secondary-low": "bdbdbd",
+      "secondary-medium": "919191",
+      "secondary-high": "646464",
+      "secondary-very-high": "313131",
+      "tertiary-low": "bdbdbd",
+      "tertiary-medium": "919191",
+      "tertiary-high": "646464",
+      "tertiary-very-high": "313131"
     },
     "Dlubal Dark WIP": {
       "primary": "dddddd",
-      "--primary-low": "03123D",
       "secondary": "03123D",
       "tertiary": "1E3299",
       "quaternary": "CC3629",
@@ -31,7 +43,21 @@
       "success": "21D93F",
       "love": "FF66CC",
       "selected": "192A80",
-      "hover": "192A80"
+      "hover": "192A80",
+      "primary-very-low": "282828",
+      "primary-low": "313131",
+      "primary-low-mid": "7a7a7a",
+      "primary-medium": "909090",
+      "primary-high": "a6a6a6",
+      "primary-very-high": "c7c7c7",
+      "secondary-low": "bdbdbd",
+      "secondary-medium": "919191",
+      "secondary-high": "646464",
+      "secondary-very-high": "313131",
+      "tertiary-low": "bdbdbd",
+      "tertiary-medium": "919191",
+      "tertiary-high": "646464",
+      "tertiary-very-high": "313131"
     }
   }
 }
