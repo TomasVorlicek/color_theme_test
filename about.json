@@ -1,9 +1,9 @@
 {
-  "name": "Dlubal Test Theme WIP",
+  "name": "Dlubal Test Theme Narrow Color Palette",
   "about_url": "https://github.com/TomasVorlicek/color_theme_test",
   "license_url": "https://github.com/TomasVorlicek/color_theme_test/blob/main/LICENSE",
   "color_schemes": {
-    "Dlubal Dark WIP": {
+    "Dlubal Dark Narrow Palette": {
       "primary": "03123D",
       "secondary": "fff",
       "tertiary": "08c",
